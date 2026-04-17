@@ -26,8 +26,11 @@ GitHub sorts folders alphabetically, so use this index when you want the numeric
 15. [myProject15](./myProject15)
 16. [myProject16](./myProject16)
 17. [myProject17](./myProject17)
-18. [myProject18](./myProject18)
-19. [myProject19](./myProject19)
+
+Projects 18 and 19 are in the `advance` branch:
+
+- `myProject18`
+- `myProject19`
 
 ## Other
 
